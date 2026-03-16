@@ -1,6 +1,6 @@
 # Chatbot-Assistente-De-Estudos
 
-#Tema: Assitente de Estudos
+#Tema: Assistente de Estudos
 
 #Integrantes: 
 
