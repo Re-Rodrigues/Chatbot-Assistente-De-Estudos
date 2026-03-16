@@ -1,11 +1,9 @@
-# Chatbot-Assistente-De-Estudos
+# 📚 Chatbot-Assistente-De-Estudos
 
-#Tema: Assistente de Estudos
+Projeto desenvolvido para a disciplina de **Inteligência Artificial e Machine Learning**
 
-#Integrantes: 
+## 👥 Integrantes
 
-#Augusto Cézar de Almeida Pinto
-
-#Gabriel Mazilao Ferreira da Silva
-
-#Renan Rodrigues da Silva
+- Augusto Cézar de Almeida Pinto  
+- Gabriel Mazilao Ferreira da Silva  
+- Renan Rodrigues da Silva 
